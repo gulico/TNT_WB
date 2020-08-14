@@ -17,15 +17,15 @@ python3.7
 
 **免安装试用体验**一下，[戳这里](https://link.jianshu.com/?t=https%3A%2F%2Ftry.jupyter.org%2F)
 
-1. 点这里![tnt](https://github.com/gulico/TNT_WB/fig/2.jpg)
+1. 点这里![tnt](https://github.com/gulico/TNT_WB/blob/master/fig/2.jpg)
 2. 将文件拖动到页面上。
 3. 点击运行按钮即可逐块运行了。
 
-![tnt](https://github.com/gulico/TNT_WB/fig/3.jpg)
+![tnt](https://github.com/gulico/TNT_WB/blob/master/fig/3.jpg)
 
 4. 生成的CSV文件右键下载
 
-![tnt](https://github.com/gulico/TNT_WB/fig/4.png)
+![tnt](https://github.com/gulico/TNT_WB/blob/master/fig/4.png)
 
 5. excel直接打开CSV文件，另存为选择excel格式即可。
 
@@ -41,7 +41,7 @@ python3.7
 
    左侧选择Preview选项卡
 
-   ![tnt](https://github.com/gulico/TNT_WB/fig/1.jpg)
+   ![tnt](https://github.com/gulico/TNT_WB/blob/master/fig/1.jpg)
 
 4. 下方内容展开data->cards->0->mblog，即可寻找你需要的内容了。
 
@@ -72,7 +72,7 @@ python3.7
            yield weibo
    ```
 
-   这里修改所需爬取的内容。
+   
 
 ## 参考资料
 
