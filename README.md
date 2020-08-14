@@ -25,7 +25,7 @@ python3.7
 
 4. 生成的CSV文件右键下载
 
-![tnt](https://github.com/gulico/TNT_WB/fig/4.jpg)
+![tnt](https://github.com/gulico/TNT_WB/fig/4.png)
 
 5. excel直接打开CSV文件，另存为选择excel格式即可。
 
